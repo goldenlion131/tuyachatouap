@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "navbar": "../../../components/t_navbar/index",
+    "Boolean": "./components/Boolean/index",
+    "Enum": "./components/Enum/index",
+    "Integer": "./components/Integer/index",
+    "van-button": "/miniprogram_npm/@vant/weapp/button/index",
+    "ec-canvas": "../../../ec-canvas/ec-canvas",
+    "van-cell": "/miniprogram_npm/@vant/weapp/cell/index",
+    "van-cell-group": "/miniprogram_npm/@vant/weapp/cell-group/index"
+  },
+  "navigationStyle": "custom"
+}
